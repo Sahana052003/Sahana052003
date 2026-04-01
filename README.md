@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahana N</h1>
+<h1 align="center">Hi , I'm Sahana N</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile%20views&color=0e75b6&style=flat" alt="sahana052003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahana052003" alt="sahana052003" /></a> </p>
+
+- 🌱 I’m currently learning **Spring Frameworks,Java**
 
 - 👨‍💻 All of my projects are available at [https://sahana052003.github.io/](https://sahana052003.github.io/)
 
