@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Modules,Java 8 features**
 
-- 👨‍💻 All of my projects are available at [https://sahana052003.github.io/](https://sahana052003.github.io/)
+- 👨‍💻Portfolio [https://sahana052003.github.io/](https://sahana052003.github.io/)
 
 - 📫 How to reach me **sahananreddy52003@gmail.com**
 
