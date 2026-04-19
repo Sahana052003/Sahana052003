@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahana052003" alt="sahana052003" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Modules,Java 8 features**
+- 🌱 I’m currently learning **Spring Modules,Java 8 features(stream API)**
 
 - 👨‍💻Portfolio [https://sahana052003.github.io/](https://sahana052003.github.io/)
 
