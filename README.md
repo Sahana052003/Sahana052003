@@ -17,8 +17,9 @@
 + Full Stack MERN Developer
 + Passionate about scalable & type-safe apps
 + Focused on clean architecture & performance
-
-
+🌍 Based in Bangladesh
+🌱 Currently learning: Python, Docker, AWS
+💬 Ask me about: JavaScript, TypeScript, Full Stack Development
 🧠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,prisma,docker,aws,git" /> </p>
 ⚡ GitHub Stats
