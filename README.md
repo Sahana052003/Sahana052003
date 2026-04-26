@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sahana N</h1>
-<h3 align="center">A passionate Java Full Stack developer</h3>
+<h3 align="center">A passionate Java Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile%20views&color=0e75b6&style=flat" alt="sahana052003" /> </p>
 
