@@ -12,6 +12,7 @@
 🧠 Tech Stack
 💻 Backend
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" width="40" height="40" alt="Hibernate"/> </p>
 
 
 🌐 Frontend
