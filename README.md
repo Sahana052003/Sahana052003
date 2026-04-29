@@ -33,7 +33,13 @@
 📚 Strong in Data Structures & Algorithms
 🔥 Active GitHub contributor
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.hackerrank.com/profile/sahananreddy5201"> <img src="https://skillicons.dev/icons?i=hackerrank" /> </a> <a href="https://leetcode.com/u/qash0w2bcl/"> <img src="https://skillicons.dev/icons?i=leetcode" /> </a> </p>
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/sahananreddy5201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/u/qash0w2bcl/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
+  </a>
+</p>
 
 
