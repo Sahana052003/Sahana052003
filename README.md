@@ -25,6 +25,17 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github" /> </p> <p align="center"><b>Git • GitHub</b></p>
 
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahana052003&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahana052003&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahana052003&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahana052003&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahana052003&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahana052003&layout=compact&theme=radical" /> </p>
@@ -42,4 +53,26 @@
   </a>
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahana052003&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahana052003&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahana052003&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahana052003&theme=react-dark&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahana052003/sahana052003/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
