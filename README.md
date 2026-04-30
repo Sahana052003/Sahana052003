@@ -7,7 +7,7 @@
 
 
 🚀 About Me
-🌱 Currently mastering Spring Boot, Microservices & Java 8 (Stream API)
+🌱 Currently mastering Spring Boot & Java 8 (Stream API)
 💡 Passionate about building scalable full-stack applications
 🎯 Focused on becoming a Backend Engineer
 👨‍💻 Portfolio: Visit Here
