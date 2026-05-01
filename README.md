@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<b>Java • Spring Boot • Spring MVC • REST APIs • Hibernate • JPA • Servlets</b>
+<b>Java • Spring Boot • Spring MVC  • Hibernate • JPA • Servlets</b>
 </p>
 
 ---
