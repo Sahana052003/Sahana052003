@@ -7,6 +7,11 @@
 💡 Passionate about designing scalable and efficient systems
 🎯 Goal: Become a skilled Backend Engineer
 📫 Email: sahananreddy52003@gmail.com
+<p align="center">
+  <a href="https://sahana52003.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
 
 🧠 Tech Stack
 💻 Backend
