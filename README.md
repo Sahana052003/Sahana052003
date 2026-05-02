@@ -13,9 +13,8 @@
 ## 🚀 About Me  
 
 - 💻 Java Full Stack Developer with a strong backend focus  
-- 🌱 Currently deep-diving into **Spring Boot & Java 8 (Streams API)**  
-- 💡 Passionate about designing **scalable and efficient systems**  
-- 🎯 Goal: Become a skilled **Backend Engineer**  
+- 🌱 Currently deep-diving into **Java 8 (Streams API)**  
+- 💡 Passionate about designing **scalable and efficient systems**   
 - 📫 Email: **sahananreddy52003@gmail.com**
 
 <p align="center">
@@ -92,7 +91,7 @@
 ✔ Solved problems on **LeetCode & HackerRank**  
 ✔ Strong foundation in **Data Structures & Algorithms**  
 ✔ Consistent GitHub contributions  
-✔ Built multiple backend-focused projects  
+
 
 ---
 
