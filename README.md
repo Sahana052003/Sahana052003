@@ -24,51 +24,49 @@
 </p>
 
 ---
+---
 
-## 🧠 Tech Stack  
+## 🧩 Tech Skills  
 
-### 💻 Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" width="48"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
 </p>
 
 <p align="center">
-<b>Java • Spring Boot • Spring MVC  • Hibernate • JPA • Servlets</b>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Servlets-FFD43B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-808080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRUD-FF4B4B?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🌐 Frontend  
+## 🛠️ Tech Tools  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-8A2BE2?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <p align="center">
-<b>HTML • CSS • JavaScript • Bootstrap</b>
-</p>
-
----
-
-### 🗄️ Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-<b>MySQL • Oracle</b>
-</p>
-
----
-
-### ⚙️ Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 </p>
 
 <p align="center">
-<b>Git • GitHub</b>
+  <img src="https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
