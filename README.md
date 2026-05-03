@@ -13,8 +13,9 @@
 ## 🚀 About Me  
 
 - 💻 Java Full Stack Developer with a strong backend focus  
-- 🌱 Currently deep-diving into **Java 8 (Streams API)**  
-- 💡 Passionate about designing **scalable and efficient systems**   
+- 🌱 Currently deep-diving into **Java 8 (Streams API) & Spring Boot**  
+- 💡 Passionate about building **scalable and efficient backend systems**  
+- 🎯 Focused on becoming a **Backend Engineer**  
 - 📫 Email: **sahananreddy52003@gmail.com**
 
 <p align="center">
@@ -23,7 +24,6 @@
   </a>
 </p>
 
----
 ---
 
 ## 🧩 Tech Skills  
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Servlets-FFD43B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-0078D6?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-808080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CRUD-FF4B4B?style=for-the-badge"/>
 </p>
@@ -88,8 +89,7 @@
 
 ✔ Solved problems on **LeetCode & HackerRank**  
 ✔ Strong foundation in **Data Structures & Algorithms**  
-✔ Consistent GitHub contributions  
-
+✔ Active GitHub contributor  
 
 ---
 
