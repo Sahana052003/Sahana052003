@@ -15,7 +15,6 @@
 - 💻 Java Full Stack Developer with a strong backend focus  
 - 🌱 Currently deep-diving into **Java 8 (Streams API) & Spring Boot**  
 - 💡 Passionate about building **scalable and efficient backend systems**  
-- 🎯 Focused on becoming a **Backend Engineer**  
 - 📫 Email: **sahananreddy52003@gmail.com**
 
 <p align="center">
