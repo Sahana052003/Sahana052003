@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahana N  
 
 <h3 align="center">
-Passionate Java Full Stack Developer  | Problem Solver
+Passionate Java Full Stack Developer  
 </h3>
 
 <p align="center">
