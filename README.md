@@ -13,9 +13,7 @@ Passionate Java Full Stack Developer
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Problem Solver" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
