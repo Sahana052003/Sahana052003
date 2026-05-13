@@ -28,7 +28,7 @@ Passionate Java Full Stack Developer
 - 💻 Java Full Stack Developer with strong expertise in backend development  
 - 🌱 Currently learning **Java 8 Streams API **  
 - ⚡ Passionate about building scalable, efficient, and clean backend applications  
-- 🧠 Strong understanding of **DSA, OOP, JDBC, Servlets, and Spring Framework**  
+- 🧠 Strong understanding of **DSA, OOP, JDBC, Servlets, and Spring Framework,Spring Modules**  
 - 📫 Reach me at: **sahananreddy52003@gmail.com**
 
 <p align="center">
