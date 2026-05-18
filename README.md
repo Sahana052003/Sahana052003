@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahana N  
+👋 Hi, I'm Sahana N  
 
 <h3 align="center">
 Passionate Java Full Stack Developer  
