@@ -7,7 +7,6 @@ Passionate Java Full Stack Developer
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&row=1&column=7" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Problem Solver" />
 </p>
@@ -17,7 +16,7 @@ Passionate Java Full Stack Developer
   <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
---
+---
 <img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
 
 ---
