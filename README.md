@@ -1,37 +1,50 @@
-👋 Hi, I'm Sahana N  
+<h1 align="center">Hi 👋, I'm Sahana N</h1>
 
 <h3 align="center">
-Passionate Java Full Stack Developer  
+🚀 Passionate Java Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Problem Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Backend+Focused+Engineer;Spring+Boot+Enthusiast;DSA+Learner+%26+Problem+Solver;Building+Scalable+Web+Applications" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/sahana052003">
+    <img src="https://img.shields.io/github/followers/sahana052003?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/sahana052003">
+    <img src="https://img.shields.io/github/stars/sahana052003?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  </a>
 </p>
 
 ---
+
 <img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
 
----
+# 🚀 About Me
 
-# 🚀 About Me  
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Java Full Stack Developer with strong expertise in backend development  
-- 🌱 Currently learning **Java 8 Streams API **  
-- ⚡ Passionate about building scalable, efficient, and clean backend applications  
-- 🧠 Strong understanding of **DSA, OOP, JDBC, Servlets, and Spring Framework,Spring Modules**  
+- 💻 Java Full Stack Developer passionate about backend engineering  
+- 🌱 Currently learning **Java 8 Streams API & Spring Boot**  
+- ⚡ Love building scalable and efficient applications  
+- 🧠 Strong in **DSA, OOP, JDBC, Servlets, JPA & Spring Framework**  
+- 🎯 Focused on clean architecture and optimized code  
 - 📫 Reach me at: **sahananreddy52003@gmail.com**
+
+<br>
 
 <p align="center">
   <a href="https://sahana52003.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:sahananreddy52003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -51,7 +64,8 @@ Passionate Java Full Stack Developer
 
 <a href="mailto:sahananreddy52003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a
+</a>
+
 <a href="https://leetcode.com/u/qash0w2bcl/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -66,52 +80,52 @@ Passionate Java Full Stack Developer
 
 <img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
 
----
+# 🧩 Tech Stack
 
-# 🧩 Tech Stack  
-
-## 💻 Languages  
+## 💻 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" />
 </p>
 
 ---
 
-## ⚙ Backend Technologies  
+## ⚙ Backend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,maven" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Servlets-FFD43B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-0078D6?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-808080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CRUD-FF4B4B?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Database  
+## 🗄 Database
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠 Tools & Platforms  
+## 🛠 Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-8A2BE2?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,maven" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-2ECC71?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
@@ -119,14 +133,15 @@ Passionate Java Full Stack Developer
 
 <img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
 ---
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
-
----
-
-# 📊 GitHub Analytics  
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahana052003&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -134,7 +149,7 @@ Passionate Java Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahana052003&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahana052003&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -142,35 +157,12 @@ Passionate Java Full Stack Developer
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/qASH0w2BCL?theme=dark&font=Karma" />
+  <img src="https://leetcard.jacoblin.cool/qASH0w2BCL?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
 
-# 🏆 Achievements  
-
-✔ Solved problems on **LeetCode & HackerRank**  
-✔ Strong foundation in **Data Structures & Algorithms**  
-✔ Active GitHub contributor  
-
-
----
-
-# 🌐 Coding Profiles  
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/sahananreddy5201" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://leetcode.com/u/qash0w2bcl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-# 📈 Contribution Activity  
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahana052003&theme=react-dark&hide_border=true" />
@@ -178,7 +170,7 @@ Passionate Java Full Stack Developer
 
 ---
 
-# 🐍 Contribution Snake  
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahana052003/sahana052003/output/github-contribution-grid-snake-dark.svg" />
@@ -186,6 +178,16 @@ Passionate Java Full Stack Developer
 
 ---
 
+# 🏅 Achievements
+
+✔ Solved coding problems on **LeetCode & HackerRank**  
+✔ Strong foundation in **Data Structures & Algorithms**  
+✔ Active learner of **Spring Ecosystem & Java Backend Development**
+
+---
+
+# 🌟 Quote
+
 <h3 align="center">
-⭐ Code • Learn • Build • Repeat ⭐
+✨ Code • Learn • Build • Repeat ✨
 </h3>
