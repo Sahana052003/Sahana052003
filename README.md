@@ -51,8 +51,7 @@ Passionate Java Full Stack Developer
 
 <a href="mailto:sahananreddy52003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+</a
 <a href="https://leetcode.com/u/qash0w2bcl/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
