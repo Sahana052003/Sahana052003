@@ -1,33 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sahana N</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00F7FF;">Sahana N</span>
+</h1>
 
 <h3 align="center">
 🚀 Passionate Java Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Backend+Focused+Engineer;Spring+Boot+Enthusiast;DSA+Learner+%26+Problem+Solver;Building+Scalable+Web+Applications" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahana052003&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sahana052003">
-    <img src="https://img.shields.io/github/followers/sahana052003?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://github.com/sahana052003">
-    <img src="https://img.shields.io/github/stars/sahana052003?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Backend+Focused+Engineer;Spring+Boot+Enthusiast;DSA+Learner+%26+Problem+Solver;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-12K+-00F7FF?style=for-the-badge&logo=eye&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Followers-250+-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stars-180+-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=header"/>
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="55%">
+
+### 👩‍💻 Developer Profile
 
 - 💻 Java Full Stack Developer passionate about backend engineering  
 - 🌱 Currently learning **Java 8 Streams API & Spring Boot**  
@@ -39,14 +46,24 @@
 <br>
 
 <p align="center">
-  <a href="https://sahana52003.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
+  <a href="https://sahana52003.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4A00E0?style=for-the-badge"/>
   </a>
 
   <a href="mailto:sahananreddy52003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,15 +75,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sahananreddy52003@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/qash0w2bcl/" target="_blank">
+<a href="https://leetcode.com/u/qASH0w2BCL/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -77,8 +94,6 @@
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
 
 # 🧩 Tech Stack
 
@@ -131,12 +146,10 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750577-6c7a0d6d-0d44-4f91-8df5-f84f5e1b8c3c.gif" width="100%">
-
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -145,6 +158,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahana052003&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahana052003&theme=radical&hide_border=true" width="48%" />
 </p>
 
@@ -165,7 +179,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahana052003&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahana052003&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -173,21 +187,26 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahana052003/sahana052003/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sahana052003/sahana052003/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 # 🏅 Achievements
 
-✔ Solved coding problems on **LeetCode & HackerRank**  
-✔ Strong foundation in **Data Structures & Algorithms**  
-✔ Active learner of **Spring Ecosystem & Java Backend Development**
+<p align="center">
+
+✔ Solved coding problems on **LeetCode & HackerRank** <br><br>
+
+✔ Strong foundation in **Data Structures & Algorithms** <br><br>
+✔ Active learner of **Spring Ecosystem & Java**
+
+</p>
 
 ---
 
-# 🌟 Quote
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
-<h3 align="center">
-✨ Code • Learn • Build • Repeat ✨
-</h3>
+<h2 align="center">
+⭐ Code • Learn • Build • Repeat ⭐
+</h2>
