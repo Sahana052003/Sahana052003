@@ -18,13 +18,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12K+-00F7FF?style=for-the-badge&logo=eye&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Followers-250+-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stars-180+-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
-</p>
 
 ---
 
