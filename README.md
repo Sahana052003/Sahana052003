@@ -33,7 +33,7 @@
 ### 👩‍💻 Developer Profile
 
 - 💻 Java Full Stack Developer passionate about backend engineering  
-- 🌱 Currently learning **Java 8 Streams API & Spring Boot**  
+- 🌱 Currently learning **Java 8 Streams API **  
 - ⚡ Love building scalable and efficient applications  
 - 🧠 Strong in **DSA, OOP, JDBC, Servlets, JPA & Spring Framework**  
 - 🎯 Focused on clean architecture and optimized code  
