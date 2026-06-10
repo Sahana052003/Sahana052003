@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Backend+Focused+Engineer;Spring+Boot+Enthusiast;DSA+Learner+%26+Problem+Solver;Building+Scalable+Web+Applications" />
 </p>
 
----
-
+--
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahana052003&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
