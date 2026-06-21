@@ -25,6 +25,9 @@
 <tr>
 <td width="55%">
 
+
+
+
 ### 👩‍💻 Developer Profile
 
 - 💻 Java Full Stack Developer passionate about backend engineering  
